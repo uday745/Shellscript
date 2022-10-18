@@ -1,0 +1,5 @@
+name=uday
+value=10
+
+echo My name is $name
+echo value=$value

@@ -1,0 +1,8 @@
+#!/bin/bash
+# $PWD comment
+echo $USER #Systemvariables
+echo $BASH
+echo $HOME
+echo $PWD
+
+echo "Hello world..."

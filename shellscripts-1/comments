@@ -1,0 +1,11 @@
+echo "Hello Guys"
+echo "comments demo"
+echo "S L C starts"
+# echo "single line comment started"
+echo "M L C starts"
+<<bhasksar
+cal
+ls 
+date>>
+date
+ 
